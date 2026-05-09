@@ -1,26 +1,27 @@
 <h1 align="center">Hi 👋, I'm Harsh Chauhan</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | React & Django Developer | DevOps Learner
+🚀 Full Stack Developer | Graphic Designer | React & Django Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;React+%2B+Django+Developer;REST+API+Developer;Open+Source+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Professional+Graphic+Designer;React+%2B+Django+Developer;UI%2FUX+Enthusiast;Creative+Problem+Solver" />
 </p>
 
 ---
 
-## 💫 About Me
+# 💫 About Me
 
-💻 Passionate Full Stack Developer from India  
+💻 Full Stack Developer & Professional Graphic Designer from India  
+🎨 2.5+ Years of Experience in Graphic Designing  
 🚀 Building modern web applications using React & Django  
+🖌️ Skilled in Branding, Social Media Design & UI Design  
 🌱 Currently learning DevOps & Cloud Technologies  
-⚡ Love creating responsive UI and scalable backend systems  
-🎯 Focused on clean code, performance, and user experience  
+⚡ Passionate about creativity, coding, and modern UI experiences  
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="left">
 <a href="https://github.com/hcoder-404" target="_blank">
@@ -59,12 +60,16 @@
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite" />
 </p>
 
+### 🎨 Graphic Designing Tools
+<p>
+<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+
+<img src="https://img.icons8.com/color/48/coreldraw-2021.png"/>
+</p>
+
 ### ☁️ DevOps & Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,ps,ai" />
-
-<img src="https://img.icons8.com/fluency/48/coreldraw-2021.png"/>
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
 </p>
 
 ---
