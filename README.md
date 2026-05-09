@@ -61,10 +61,10 @@
 
 ### ☁️ DevOps & Tools
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,ps,ai" />
 
-<img src="https://cdn.worldvectorlogo.com/logos/coreldraw-gs2019.svg" width="48" height="48"/>
+<img src="https://img.icons8.com/fluency/48/coreldraw-2021.png"/>
 </p>
 
 ---
