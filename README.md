@@ -28,11 +28,11 @@
 <img src="https://skillicons.dev/icons?i=github" width="45" />
 </a>
 
-<a href="https://www.linkedin.com/" target="_blank">
+<a href="https://www.linkedin.com/in/harsh--chauhan/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45" />
 </a>
 
-<a href="https://www.instagram.com/" target="_blank">
+<a href="https://www.instagram.com/h_chauhan404/" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" width="45" />
 </a>
 
@@ -64,7 +64,7 @@
 <p>
 <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
 
-<img src="https://img.icons8.com/color/48/coreldraw-2021.png"/>
+<img src="https://img.icons8.com/fluency/48/coreldraw-2021.png"/>
 </p>
 
 ### ☁️ DevOps & Tools
