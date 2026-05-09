@@ -60,8 +60,11 @@
 </p>
 
 ### ☁️ DevOps & Tools
+
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,photoshop" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman,figma,ps,ai" />
+
+<img src="https://img.icons8.com/color/48/coreldraw-2021.png" width="48" height="48"/>
 </p>
 
 ---
